@@ -1,0 +1,17 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file 5 Internet Safety Tips for Kids.mp4 is being processed by UnknownPlugin.
+The file WHATIS~1.MP4 is being processed by UnknownPlugin.
+The file C:\Users\Korisnik55\Greenstone3\web\sites\localsite\collect\internet\tmp\1750702038\dopolnitelni_zakani.html is being processed by HTMLPlugin.
+The file C:\Users\Korisnik55\Greenstone3\web\sites\localsite\collect\internet\tmp\1750702039_1\kako da bides bezbeden final.html is being processed by HTMLPlugin.
+************** Import Finished **************
+4 documents were considered for processing:
+    4 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;dc.Title;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;dc.Title;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>5 Internet Safety Tips for Kids\.mp4</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи видео 1</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+		
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>What Is Netiquette_ %26#xD83D;%26#xDCF1; Internet Behavior Rules for Kids %26#xD83D;%26#xDCBB; Episode  2\.mp4</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи видео 2</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+		
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Zashtita_na_deca_od_socijalni_mrezi\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи текст 1</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Document</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>%26#x414;%26#x43E;%26#x43F;%26#x43E;%26#x43B;%26#x43D;%26#x438;%26#x442;%26#x435;%26#x43B;%26#x43D;%26#x438; %26#x438;%26#x43D;%26#x442;%26#x435;%26#x440;%26#x43D;%26#x435;%26#x442; %26#x437;%26#x430;%26#x43A;%26#x430;%26#x43D;%26#x438; %26#x437;%26#x430; %26#x434;%26#x435;%26#x446;%26#x430; %26#x43E;%26#x434; 11 %26#x434;%26#x43E; 14 %26#x433;%26#x43E;%26#x434;%26#x438;%26#x43D;%26#x438;\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи текст 2</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Document</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
