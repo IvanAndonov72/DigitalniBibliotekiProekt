@@ -4,8 +4,8 @@
 <metadata name="buildType">lucene</metadata>
 <metadata name="indexStem">internet</metadata>
 <metadata name="infodbType">jdbm</metadata>
-<metadata name="buildDate">1750703886</metadata>
-<metadata name="earliestDatestamp">1750703877</metadata>
+<metadata name="buildDate">1757502612</metadata>
+<metadata name="earliestDatestamp">1757502604</metadata>
 </metadataList>
 <serviceRackList>
 <serviceRack name="GS2LuceneSearch">
@@ -15,8 +15,10 @@
 <index name="text" shortname="TX" />
 <index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
 <index name="Source" shortname="SO" />
-<index name="dc.Description" shortname="DE" />
 <index name="dc.Title" shortname="TT" />
+<index name="dc.Creator" shortname="CR" />
+<index name="dc.Date" shortname="DA" />
+<index name="dc.Format" shortname="FO" />
 </indexList>
 <defaultIndex shortname="TX" />
 <levelList>
@@ -46,8 +48,9 @@
 <classifierList>
 <classifier name="CL1" content="dc.Title,Title" />
 <classifier name="CL2" content="Source" />
-<classifier name="CL3" content="dc.Title" />
-<classifier name="CL4" content="dc.Identifier" />
+<classifier name="CL3" content="dc.Creator" />
+<classifier name="CL4" content="Date" />
+<classifier name="CL5" content="Format" metadata="dc.Format" hfile="" />
 </classifierList>
 </serviceRack>
 </serviceRackList>

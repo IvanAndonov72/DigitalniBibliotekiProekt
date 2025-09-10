@@ -52,11 +52,17 @@ modify the collection description template to output the "this collection contai
 		<index name="Source">
 			<displayItem lang="en" name="name">filenames</displayItem>
 		</index>
-		<index name="dc.Description">
-			<displayItem lang="en" name="name">_labelDescription_</displayItem>
-		</index>
 		<index name="dc.Title">
 			<displayItem lang="en" name="name">_labelTitle_</displayItem>
+		</index>
+		<index name="dc.Creator">
+			<displayItem lang="en" name="name">_labelCreator_</displayItem>
+		</index>
+		<index name="dc.Date">
+			<displayItem lang="en" name="name">_labelDate_</displayItem>
+		</index>
+		<index name="dc.Format">
+			<displayItem lang="en" name="name">_labelFormat_</displayItem>
 		</index>
 		<defaultIndex name="text"/>
 		<level name="document">
@@ -150,10 +156,16 @@ modify the collection description template to output the "this collection contai
 			<option name="-numeric_partition_type_within_level" value="approximate_size"/>
 		</classifier>
 		<classifier name="List">
-			<option name="-metadata" value="dc.Title"/>
+			<option name="-metadata" value="dc.Creator"/>
+			<option name="-partition_type_within_level" value="all_values"/>
 		</classifier>
-		<classifier name="List">
-			<option name="-metadata" value="dc.Identifier"/>
+		<classifier name="DateList">
+			<option name="-metadata" value="dc.Date"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="dc.Format"/>
+			<option name="-sort" value="dc.Title"/>
+			<option name="-buttonname" value="Format"/>
 		</classifier>
 		<format>
 			<gsf:template match="documentNode">

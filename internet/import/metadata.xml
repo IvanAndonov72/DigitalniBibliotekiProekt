@@ -6,7 +6,10 @@
 		<Description>
 			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи видео 1</Metadata>
 			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
-		
+			<Metadata mode="accumulate" name="dc.Format">mp4</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-05-18</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Nikola</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
@@ -14,7 +17,6 @@
 		<Description>
 			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи видео 2</Metadata>
 			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
-		
 		</Description>
 	</FileSet>
 	<FileSet>
@@ -31,6 +33,39 @@
 			<Metadata mode="accumulate" name="dc.Title">Совети за безбедност на социјални мрежи текст 2</Metadata>
 			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
 			<Metadata mode="accumulate" name="dc.Type">Document</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>dopolnitelni_zakani\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Dopolnitelni opasnosti</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Ivan</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>kako da bides bezbeden final\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Kako da bides bezbeden</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-07-22</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Ivan</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Why Is It Important to Create Strong Passwords_ _ Internet Safety _ What Is a Good Password_\.mp4</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Silen password i zosto toj e biten</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-08-26</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp4</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Nikola</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

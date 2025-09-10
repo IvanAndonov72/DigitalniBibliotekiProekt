@@ -8,11 +8,11 @@
     <Metadata name="Encoding">utf8</Metadata>
     <Metadata name="Author">Korisnik55</Metadata>
     <Metadata name="Title">Дополнителни интернет закани за деца од 11 до 14 години 1....</Metadata>
-    <Metadata name="URL">http://C:/Users/Korisnik55/Greenstone3/web/sites/localsite/collect/internet/tmp/1750703878/dopolnitelni_zakani.html</Metadata>
-    <Metadata name="UTF8URL">http://C:/Users/Korisnik55/Greenstone3/web/sites/localsite/collect/internet/tmp/1750703878/dopolnitelni_zakani.html</Metadata>
+    <Metadata name="URL">http://C:/Users/Korisnik55/Greenstone3/web/sites/localsite/collect/internet/tmp/1757502604/dopolnitelni_zakani.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Korisnik55/Greenstone3/web/sites/localsite/collect/internet/tmp/1757502604/dopolnitelni_zakani.html</Metadata>
     <Metadata name="gsdlsourcefilename">import\dopolnitelni_zakani.pdf</Metadata>
     <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
-    <Metadata name="gsdlconvertedfilename">tmp\1750703878\dopolnitelni_zakani.html</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1757502604\dopolnitelni_zakani.html</Metadata>
     <Metadata name="OrigSource">dopolnitelni_zakani.html</Metadata>
     <Metadata name="Source">dopolnitelni_zakani.pdf</Metadata>
     <Metadata name="SourceFile">dopolnitelni_zakani.pdf</Metadata>
@@ -24,11 +24,17 @@
     <Metadata name="srclink_file">doc.pdf</Metadata>
     <Metadata name="srclinkFile">doc.pdf</Metadata>
     <Metadata name="NumPages">2</Metadata>
+    <Metadata name="dc.Creator">Ivan</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">Како да бидеш безбеден на социјални мрежи</Metadata>
+    <Metadata name="dc.Format">PDF</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Dopolnitelni opasnosti</Metadata>
     <Metadata name="Identifier">HASH017bc8f78838877c8814f866</Metadata>
     <Metadata name="lastmodified">1750699711</Metadata>
     <Metadata name="lastmodifieddate">20250623</Metadata>
-    <Metadata name="oailastmodified">1750703879</Metadata>
-    <Metadata name="oailastmodifieddate">20250623</Metadata>
+    <Metadata name="oailastmodified">1757502605</Metadata>
+    <Metadata name="oailastmodifieddate">20250910</Metadata>
     <Metadata name="assocfilepath">HASH017b.dir</Metadata>
     <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
   </Description>
